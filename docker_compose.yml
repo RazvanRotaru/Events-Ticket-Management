@@ -1,0 +1,50 @@
+version: '3.3'
+
+volumes:
+    prometheus_data: {}
+    grafana_data: {}
+
+services:
+  management:
+    build: ./management
+    networks:
+       default:
+         ipv4_address: 172.16.1.14
+    stdin_open: true
+    tty: true
+  client:
+    build: ./client
+    networks:
+       default:
+         ipv4_address: 172.16.1.15
+    stdin_open: true
+    tty: true
+  service:
+    build: ./events
+    networks:
+       default:
+         ipv4_address: 172.16.1.3
+  grafana:
+    image: grafana/grafana:5.4.0
+    ports:
+      - 3000:3000
+    volumes:
+      - grafana_data:/var/lib/grafana
+    user: "104"
+    networks:
+       default:
+         ipv4_address: 172.16.1.17
+  prometheus:
+    build: ./prm
+    volumes:
+      - prometheus_data:/prometheus
+    ports:
+      - 9090:9090
+    networks:
+       default:
+         ipv4_address: 172.16.1.18
+
+networks:
+  default:
+    external:
+      name: db_subnet

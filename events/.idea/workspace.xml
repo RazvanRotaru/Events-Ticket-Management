@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8070984a-d112-4d10-a719-af708cde253d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tema2" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tema2" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tema2" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="flightsDb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tema2" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="flightsDb: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="flight: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tema2" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="flightsDb: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="hasRes: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="tema2" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="flightsDb: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="reservation: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aAnlMukxl3sXQhrsaVv8zlC69f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543594388818" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="flights" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="flights" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flights.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="flights.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="flights" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8070984a-d112-4d10-a719-af708cde253d" name="Default Changelist" comment="" />
+      <created>1543332248091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543332248091</updated>
+      <workItem from="1543332258083" duration="17928000" />
+      <workItem from="1543418615880" duration="10918000" />
+      <workItem from="1543431377887" duration="5164000" />
+      <workItem from="1543446496980" duration="15183000" />
+      <workItem from="1543536369308" duration="17138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66331000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="159" width="1084" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588893035288">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="451" y="174" width="1084" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588855413371" />
+    <state x="451" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.948@67.27.1853.948" timestamp="1588893035288" />
+    <state x="668" y="337" width="634" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588864484580">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="668" y="337" width="634" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1588864484580" />
+    <state x="668" y="306" width="639" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.948@67.27.1853.948" timestamp="1586188053580" />
+    <state width="1807" height="341" key="GridCell.Tab.0.bottom" timestamp="1588895761344">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="341" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1588876168045" />
+    <state width="1807" height="341" key="GridCell.Tab.0.bottom/67.27.1853.948@67.27.1853.948" timestamp="1588895761344" />
+    <state width="1807" height="341" key="GridCell.Tab.0.center" timestamp="1588895761343">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="341" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1588876168044" />
+    <state width="1807" height="341" key="GridCell.Tab.0.center/67.27.1853.948@67.27.1853.948" timestamp="1588895761343" />
+    <state width="1807" height="341" key="GridCell.Tab.0.left" timestamp="1588895761342">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="341" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1588876168043" />
+    <state width="1807" height="341" key="GridCell.Tab.0.left/67.27.1853.948@67.27.1853.948" timestamp="1588895761342" />
+    <state width="1807" height="341" key="GridCell.Tab.0.right" timestamp="1588895761343">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="341" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1588876168044" />
+    <state width="1807" height="341" key="GridCell.Tab.0.right/67.27.1853.948@67.27.1853.948" timestamp="1588895761343" />
+    <state x="482" y="135" key="SettingsEditor" timestamp="1588892970732">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="482" y="135" key="SettingsEditor/67.27.1853.948@67.27.1853.948" timestamp="1588892970732" />
+    <state x="649" y="328" width="688" height="344" key="com.intellij.ide.util.TipDialog" timestamp="1588895674694">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="649" y="361" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588854094632" />
+    <state x="649" y="328" width="688" height="344" key="com.intellij.ide.util.TipDialog/67.27.1853.948@67.27.1853.948" timestamp="1588895674694" />
+    <state x="657" y="227" key="run.anything.popup" timestamp="1588876860869">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="657" y="227" key="run.anything.popup/67.27.1853.948@67.27.1853.948" timestamp="1588876860869" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="events" type="b2602c69:ProjectViewProjectNode" />
+        <item name="events" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+/home/uhu/Desktop/e2/events/src/main/java/events/controllers/EventController.java
+/home/uhu/Desktop/e2/events/src/main/java/events/controllers/UserController.java
+/home/uhu/Desktop/e2/events/src/main/java/events/entities/Reservation.java
+/home/uhu/Desktop/e2/events/src/main/java/events/Main.java
+/home/uhu/Desktop/e2/events/src/main/java/events/controllers/ReservationController.java
+/home/uhu/Desktop/e2/events/src/main/java/events/controllers/TicketController.java
+/home/uhu/Desktop/e2/events/src/main/java/events/entities/Ticket.java
+/home/uhu/Desktop/e2/events/src/main/java/events/repos/HasResRepoI.java
+/home/uhu/Desktop/e2/events/src/main/java/events/repos/TicketRepoI.java
+/home/uhu/Desktop/e2/events/src/main/java/events/repos/UserRepoI.java
+/home/uhu/Desktop/e2/events/src/main/java/events/entities/User.java
+/home/uhu/Desktop/e2/events/src/main/java/events/entities/HasReservation.java
+/home/uhu/Desktop/e2/events/src/main/java/events/repos/ReservationRepoI.java
+/home/uhu/Desktop/e2/events/src/main/java/events/entities/Event.java
+/home/uhu/Desktop/e2/events/src/main/java/events/repos/EventRepoI.java
